@@ -11,7 +11,7 @@ const collection = [
     title: 'The binding of Isaac',
     author: 'Edmund McMillen et Florian Himsl',
     category: ['Rogue Like'],
-    link: 'https://play.euw.leagueoflegends.com/fr_FR',
+    link: 'https://store.steampowered.com/app/113200/The_Binding_of_Isaac/',
     description:"The binding of Isaac est certainement le roguelike le plus connu de par sa durée de vie, ses presques 1 000 succès et tous ses dlc.",
     img:"images/TBDOI.jpg",
     },
